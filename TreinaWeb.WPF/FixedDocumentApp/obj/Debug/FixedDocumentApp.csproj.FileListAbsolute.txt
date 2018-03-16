@@ -1,0 +1,14 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FixedDocumentApp\bin\Debug\FixedDocumentApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FixedDocumentApp\bin\Debug\FixedDocumentApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FixedDocumentApp\bin\Debug\FixedDocumentApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FixedDocumentApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FixedDocumentApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FixedDocumentApp\obj\Debug\FixedDocumentApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FixedDocumentApp\obj\Debug\FixedDocumentApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FixedDocumentApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FixedDocumentApp\obj\Debug\FixedDocumentApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FixedDocumentApp\obj\Debug\FixedDocumentApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FixedDocumentApp\obj\Debug\FixedDocumentApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FixedDocumentApp\obj\Debug\FixedDocumentApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FixedDocumentApp\obj\Debug\FixedDocumentApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FixedDocumentApp\obj\Debug\FixedDocumentApp.pdb

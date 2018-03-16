@@ -1,0 +1,6 @@
+c:\users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+c:\users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\HelloWorld\obj\Debug\HelloWorld.pdb

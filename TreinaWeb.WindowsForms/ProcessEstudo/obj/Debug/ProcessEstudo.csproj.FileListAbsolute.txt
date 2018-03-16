@@ -1,0 +1,10 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ProcessEstudo\bin\Debug\ProcessEstudo.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ProcessEstudo\bin\Debug\ProcessEstudo.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ProcessEstudo\bin\Debug\ProcessEstudo.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ProcessEstudo\obj\Debug\ProcessEstudo.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ProcessEstudo\obj\Debug\ProcessEstudo.FrmProcess.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ProcessEstudo\obj\Debug\ProcessEstudo.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ProcessEstudo\obj\Debug\ProcessEstudo.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ProcessEstudo\obj\Debug\ProcessEstudo.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ProcessEstudo\obj\Debug\ProcessEstudo.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ProcessEstudo\obj\Debug\ProcessEstudo.pdb

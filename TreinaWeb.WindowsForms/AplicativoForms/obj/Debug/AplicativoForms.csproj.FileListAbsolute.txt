@@ -1,0 +1,10 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\AplicativoForms\bin\Debug\AplicativoForms.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\AplicativoForms\bin\Debug\AplicativoForms.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\AplicativoForms\bin\Debug\AplicativoForms.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\AplicativoForms\obj\Debug\AplicativoForms.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\AplicativoForms\obj\Debug\AplicativoForms.FrmExemploThread.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\AplicativoForms\obj\Debug\AplicativoForms.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\AplicativoForms\obj\Debug\AplicativoForms.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\AplicativoForms\obj\Debug\AplicativoForms.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\AplicativoForms\obj\Debug\AplicativoForms.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\AplicativoForms\obj\Debug\AplicativoForms.pdb

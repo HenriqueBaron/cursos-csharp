@@ -1,0 +1,12 @@
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-3.GenericsParaClasse\bin\Debug\Ex7-3.GenericsParaClasse.exe.config
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-3.GenericsParaClasse\bin\Debug\Ex7-3.GenericsParaClasse.exe
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-3.GenericsParaClasse\bin\Debug\Ex7-3.GenericsParaClasse.pdb
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-3.GenericsParaClasse\obj\Debug\Ex7-3.GenericsParaClasse.csprojResolveAssemblyReference.cache
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-3.GenericsParaClasse\obj\Debug\Ex7-3.GenericsParaClasse.exe
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-3.GenericsParaClasse\obj\Debug\Ex7-3.GenericsParaClasse.pdb
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-3.GenericsParaClasse\bin\Debug\Ex7-3.GenericsParaClasse.exe.config
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-3.GenericsParaClasse\bin\Debug\Ex7-3.GenericsParaClasse.exe
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-3.GenericsParaClasse\bin\Debug\Ex7-3.GenericsParaClasse.pdb
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-3.GenericsParaClasse\obj\Debug\Ex7-3.GenericsParaClasse.csprojResolveAssemblyReference.cache
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-3.GenericsParaClasse\obj\Debug\Ex7-3.GenericsParaClasse.exe
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-3.GenericsParaClasse\obj\Debug\Ex7-3.GenericsParaClasse.pdb

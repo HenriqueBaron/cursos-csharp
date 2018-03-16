@@ -1,0 +1,15 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlTemplateApp\bin\Debug\ContentControlTemplateApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlTemplateApp\bin\Debug\ContentControlTemplateApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlTemplateApp\bin\Debug\ContentControlTemplateApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlTemplateApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlTemplateApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlTemplateApp\obj\Debug\ContentControlTemplateApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlTemplateApp\obj\Debug\ContentControlTemplateApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlTemplateApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlTemplateApp\obj\Debug\ContentControlTemplateApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlTemplateApp\obj\Debug\ContentControlTemplateApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlTemplateApp\obj\Debug\ContentControlTemplateApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlTemplateApp\obj\Debug\ContentControlTemplateApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlTemplateApp\obj\Debug\ContentControlTemplateApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlTemplateApp\obj\Debug\ContentControlTemplateApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlTemplateApp\obj\Debug\ContentControlTemplateApp.csprojResolveAssemblyReference.cache

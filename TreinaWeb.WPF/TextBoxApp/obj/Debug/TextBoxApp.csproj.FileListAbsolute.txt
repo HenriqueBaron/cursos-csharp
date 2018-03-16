@@ -1,0 +1,15 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TextBoxApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TextBoxApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TextBoxApp\obj\Debug\TextBoxApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TextBoxApp\obj\Debug\TextBoxApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TextBoxApp\bin\Debug\TextBoxApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TextBoxApp\bin\Debug\TextBoxApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TextBoxApp\bin\Debug\TextBoxApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TextBoxApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TextBoxApp\obj\Debug\TextBoxApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TextBoxApp\obj\Debug\TextBoxApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TextBoxApp\obj\Debug\TextBoxApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TextBoxApp\obj\Debug\TextBoxApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TextBoxApp\obj\Debug\TextBoxApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TextBoxApp\obj\Debug\TextBoxApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TextBoxApp\obj\Debug\TextBoxApp.csprojResolveAssemblyReference.cache

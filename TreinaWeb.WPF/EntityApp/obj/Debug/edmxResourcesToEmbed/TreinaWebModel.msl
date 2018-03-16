@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TreinaWebWPFModelStoreContainer" CdmEntityContainer="TreinaWebWPFEntities">
+    <EntitySetMapping Name="twc_cursos">
+      <EntityTypeMapping TypeName="TreinaWebWPFModel.twc_cursos">
+        <MappingFragment StoreEntitySet="twc_cursos">
+          <ScalarProperty Name="twc_id" ColumnName="twc_id" />
+          <ScalarProperty Name="twc_nome" ColumnName="twc_nome" />
+          <ScalarProperty Name="twc_descricao" ColumnName="twc_descricao" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

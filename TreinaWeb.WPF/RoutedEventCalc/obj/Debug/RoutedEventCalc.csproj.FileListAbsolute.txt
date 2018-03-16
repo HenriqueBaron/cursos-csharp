@@ -1,0 +1,15 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\RoutedEventCalc\bin\Debug\RoutedEventCalc.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\RoutedEventCalc\bin\Debug\RoutedEventCalc.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\RoutedEventCalc\bin\Debug\RoutedEventCalc.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\RoutedEventCalc\obj\Debug\RoutedEventCalc.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\RoutedEventCalc\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\RoutedEventCalc\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\RoutedEventCalc\obj\Debug\RoutedEventCalc_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\RoutedEventCalc\obj\Debug\RoutedEventCalc_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\RoutedEventCalc\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\RoutedEventCalc\obj\Debug\RoutedEventCalc.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\RoutedEventCalc\obj\Debug\RoutedEventCalc.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\RoutedEventCalc\obj\Debug\RoutedEventCalc.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\RoutedEventCalc\obj\Debug\RoutedEventCalc.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\RoutedEventCalc\obj\Debug\RoutedEventCalc.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\RoutedEventCalc\obj\Debug\RoutedEventCalc.pdb

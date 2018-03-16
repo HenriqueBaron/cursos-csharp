@@ -1,0 +1,6 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Repos.Comum\bin\Debug\TreinaWeb.CSAvEx162.Repos.Comum.dll
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Repos.Comum\bin\Debug\TreinaWeb.CSAvEx162.Repos.Comum.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Repos.Comum\obj\Debug\TreinaWeb.CSAvEx162.Repos.Comum.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Repos.Comum\obj\Debug\TreinaWeb.CSAvEx162.Repos.Comum.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Repos.Comum\obj\Debug\TreinaWeb.CSAvEx162.Repos.Comum.dll
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Repos.Comum\obj\Debug\TreinaWeb.CSAvEx162.Repos.Comum.pdb

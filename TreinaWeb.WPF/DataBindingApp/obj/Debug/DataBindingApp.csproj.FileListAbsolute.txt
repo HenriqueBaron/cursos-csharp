@@ -1,0 +1,15 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingApp\obj\Debug\DataBindingApp.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingApp\obj\Debug\DataBindingApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingApp\obj\Debug\DataBindingApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingApp\bin\Debug\DataBindingApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingApp\bin\Debug\DataBindingApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingApp\bin\Debug\DataBindingApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingApp\obj\Debug\DataBindingApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingApp\obj\Debug\DataBindingApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingApp\obj\Debug\DataBindingApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingApp\obj\Debug\DataBindingApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingApp\obj\Debug\DataBindingApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingApp\obj\Debug\DataBindingApp.pdb

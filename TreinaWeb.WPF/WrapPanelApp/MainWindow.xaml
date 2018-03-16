@@ -1,0 +1,18 @@
+﻿<Window x:Class="WrapPanelApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WrapPanelApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="145.339" Width="360.381">
+    <WrapPanel Orientation="Vertical">
+        <Button Content="Button 1" Width="50"/>
+        <Button Content="Button 2" Width="80"/>
+        <Button Content="Button 3" Width="60"/>
+        <Button Content="Button 4" Width="120"/>
+        <Button Content="Button 5" Width="100"/>
+        <Button Content="Button 6" Width="70"/>
+        <Button Content="Button 7" Width="90"/>
+    </WrapPanel>
+</Window>

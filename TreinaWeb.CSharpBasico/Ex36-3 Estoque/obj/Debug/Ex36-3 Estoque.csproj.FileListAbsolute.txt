@@ -1,0 +1,9 @@
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex36-3 Estoque\bin\Debug\Ex36-3 Estoque.exe.config
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex36-3 Estoque\bin\Debug\Ex36-3 Estoque.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex36-3 Estoque\bin\Debug\Ex36-3 Estoque.pdb
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex36-3 Estoque\obj\Debug\Ex36-3 Estoque.csprojResolveAssemblyReference.cache
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex36-3 Estoque\obj\Debug\Ex36_3_Estoque.frmControleEstoque.resources
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex36-3 Estoque\obj\Debug\Ex36_3_Estoque.Properties.Resources.resources
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex36-3 Estoque\obj\Debug\Ex36-3 Estoque.csproj.GenerateResource.Cache
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex36-3 Estoque\obj\Debug\Ex36-3 Estoque.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex36-3 Estoque\obj\Debug\Ex36-3 Estoque.pdb

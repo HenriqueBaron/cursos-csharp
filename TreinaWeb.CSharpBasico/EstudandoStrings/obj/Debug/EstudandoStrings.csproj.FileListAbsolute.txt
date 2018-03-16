@@ -1,0 +1,6 @@
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudandoStrings\bin\Debug\EstudandoStrings.exe.config
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudandoStrings\bin\Debug\EstudandoStrings.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudandoStrings\bin\Debug\EstudandoStrings.pdb
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudandoStrings\obj\Debug\EstudandoStrings.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudandoStrings\obj\Debug\EstudandoStrings.pdb
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudandoStrings\obj\Debug\EstudandoStrings.csprojResolveAssemblyReference.cache

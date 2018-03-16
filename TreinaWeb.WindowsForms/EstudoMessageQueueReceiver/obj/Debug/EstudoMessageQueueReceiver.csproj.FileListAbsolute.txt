@@ -1,0 +1,6 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoMessageQueueReceiver\bin\Debug\EstudoMessageQueueReceiver.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoMessageQueueReceiver\bin\Debug\EstudoMessageQueueReceiver.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoMessageQueueReceiver\bin\Debug\EstudoMessageQueueReceiver.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoMessageQueueReceiver\obj\Debug\EstudoMessageQueueReceiver.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoMessageQueueReceiver\obj\Debug\EstudoMessageQueueReceiver.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoMessageQueueReceiver\obj\Debug\EstudoMessageQueueReceiver.pdb

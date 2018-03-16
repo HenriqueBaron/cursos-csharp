@@ -1,0 +1,14 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlApp\bin\Debug\ContentControlApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlApp\bin\Debug\ContentControlApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlApp\bin\Debug\ContentControlApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlApp\obj\Debug\ContentControlApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlApp\obj\Debug\ContentControlApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlApp\obj\Debug\ContentControlApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlApp\obj\Debug\ContentControlApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlApp\obj\Debug\ContentControlApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlApp\obj\Debug\ContentControlApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlApp\obj\Debug\ContentControlApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ContentControlApp\obj\Debug\ContentControlApp.pdb

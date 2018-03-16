@@ -1,0 +1,15 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\GridApp\bin\Debug\GridApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\GridApp\bin\Debug\GridApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\GridApp\bin\Debug\GridApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\GridApp\obj\Debug\GridApp.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\GridApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\GridApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\GridApp\obj\Debug\GridApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\GridApp\obj\Debug\GridApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\GridApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\GridApp\obj\Debug\GridApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\GridApp\obj\Debug\GridApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\GridApp\obj\Debug\GridApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\GridApp\obj\Debug\GridApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\GridApp\obj\Debug\GridApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\GridApp\obj\Debug\GridApp.pdb

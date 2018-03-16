@@ -1,0 +1,7 @@
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Ex182MetodoExtensao\bin\Debug\Ex182MetodoExtensao.exe.config
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Ex182MetodoExtensao\bin\Debug\Ex182MetodoExtensao.exe
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Ex182MetodoExtensao\bin\Debug\Ex182MetodoExtensao.pdb
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Ex182MetodoExtensao\obj\Debug\Ex182MetodoExtensao.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Ex182MetodoExtensao\obj\Debug\Ex182MetodoExtensao.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Ex182MetodoExtensao\obj\Debug\Ex182MetodoExtensao.exe
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Ex182MetodoExtensao\obj\Debug\Ex182MetodoExtensao.pdb

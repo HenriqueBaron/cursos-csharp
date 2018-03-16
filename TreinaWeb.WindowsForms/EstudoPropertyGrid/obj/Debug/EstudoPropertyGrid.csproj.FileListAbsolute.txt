@@ -1,0 +1,10 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoPropertyGrid\bin\Debug\EstudoPropertyGrid.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoPropertyGrid\bin\Debug\EstudoPropertyGrid.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoPropertyGrid\bin\Debug\EstudoPropertyGrid.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoPropertyGrid\obj\Debug\EstudoPropertyGrid.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoPropertyGrid\obj\Debug\EstudoPropertyGrid.FrmPropertyGrid.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoPropertyGrid\obj\Debug\EstudoPropertyGrid.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoPropertyGrid\obj\Debug\EstudoPropertyGrid.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoPropertyGrid\obj\Debug\EstudoPropertyGrid.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoPropertyGrid\obj\Debug\EstudoPropertyGrid.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoPropertyGrid\obj\Debug\EstudoPropertyGrid.pdb

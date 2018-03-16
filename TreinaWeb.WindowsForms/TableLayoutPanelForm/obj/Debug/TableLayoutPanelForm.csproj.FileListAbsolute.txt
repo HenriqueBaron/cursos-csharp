@@ -1,0 +1,9 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TableLayoutPanelForm\bin\Debug\TableLayoutPanelForm.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TableLayoutPanelForm\bin\Debug\TableLayoutPanelForm.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TableLayoutPanelForm\bin\Debug\TableLayoutPanelForm.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TableLayoutPanelForm\obj\Debug\TableLayoutPanelForm.frmTableLayout.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TableLayoutPanelForm\obj\Debug\TableLayoutPanelForm.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TableLayoutPanelForm\obj\Debug\TableLayoutPanelForm.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TableLayoutPanelForm\obj\Debug\TableLayoutPanelForm.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TableLayoutPanelForm\obj\Debug\TableLayoutPanelForm.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TableLayoutPanelForm\obj\Debug\TableLayoutPanelForm.pdb

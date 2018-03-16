@@ -1,0 +1,39 @@
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula_16_SegundoExercicio\bin\Debug\Aula_16_SegundoExercicio.exe.config
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.csprojResolveAssemblyReference.cache
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.Properties.Resources.resources
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.csproj.GenerateResource.Cache
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula_16_SegundoExercicio\bin\Debug\Aula_16_SegundoExercicio.exe
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula_16_SegundoExercicio\bin\Debug\Aula_16_SegundoExercicio.pdb
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula_16_SegundoExercicio\bin\Debug\EntityFramework.dll
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula_16_SegundoExercicio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula_16_SegundoExercicio\bin\Debug\EntityFramework.xml
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula_16_SegundoExercicio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.exe
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.pdb
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.FrmPrincipal.resources
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula_16_SegundoExercicio\bin\Debug\MySql.Data.dll
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula_16_SegundoExercicio\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.FrmProdutos.resources
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.Migrations.Migration_Inicial_Criacao_Banco_Mercado.resources
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.FrmProduto.resources
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.FrmPedido.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\bin\Debug\Aula_16_SegundoExercicio.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\bin\Debug\Aula_16_SegundoExercicio.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\bin\Debug\Aula_16_SegundoExercicio.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\bin\Debug\EntityFramework.dll
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\bin\Debug\MySql.Data.dll
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\bin\Debug\EntityFramework.xml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.FrmPedido.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.FrmPrincipal.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.FrmProduto.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.FrmProdutos.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.Migrations.Migration_Inicial_Criacao_Banco_Mercado.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\Aula_16_SegundoExercicio\obj\Debug\Aula_16_SegundoExercicio.pdb

@@ -1,0 +1,11 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DataSources\bin\Debug\DataSources.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DataSources\bin\Debug\DataSources.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DataSources\bin\Debug\DataSources.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DataSources\obj\Debug\DataSources.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DataSources\obj\Debug\DataSources.frmProduto.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DataSources\obj\Debug\DataSources.frmTabela.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DataSources\obj\Debug\DataSources.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DataSources\obj\Debug\DataSources.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DataSources\obj\Debug\DataSources.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DataSources\obj\Debug\DataSources.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DataSources\obj\Debug\DataSources.pdb

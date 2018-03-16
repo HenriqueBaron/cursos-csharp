@@ -1,0 +1,7 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\8LinqToXml\bin\Debug\8LinqToXml.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\8LinqToXml\bin\Debug\8LinqToXml.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\8LinqToXml\bin\Debug\8LinqToXml.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\8LinqToXml\obj\Debug\8LinqToXml.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\8LinqToXml\obj\Debug\8LinqToXml.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\8LinqToXml\obj\Debug\8LinqToXml.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\8LinqToXml\obj\Debug\8LinqToXml.pdb

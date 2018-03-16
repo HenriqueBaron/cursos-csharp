@@ -1,0 +1,18 @@
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\ExpressoesLambda\obj\Debug\ExpressoesLambda.csprojResolveAssemblyReference.cache
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\ExpressoesLambda\obj\Debug\ExpressoesLambda.FrmLambda.resources
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\ExpressoesLambda\obj\Debug\ExpressoesLambda.Properties.Resources.resources
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\ExpressoesLambda\obj\Debug\ExpressoesLambda.csproj.GenerateResource.Cache
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\ExpressoesLambda\bin\Debug\ExpressoesLambda.exe
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\ExpressoesLambda\bin\Debug\ExpressoesLambda.pdb
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\ExpressoesLambda\obj\Debug\ExpressoesLambda.exe
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\ExpressoesLambda\obj\Debug\ExpressoesLambda.pdb
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\ExpressoesLambda\bin\Debug\ExpressoesLambda.exe.config
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\ExpressoesLambda\bin\Debug\ExpressoesLambda.exe
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\ExpressoesLambda\bin\Debug\ExpressoesLambda.pdb
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\ExpressoesLambda\obj\Debug\ExpressoesLambda.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\ExpressoesLambda\obj\Debug\ExpressoesLambda.FrmLambda.resources
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\ExpressoesLambda\obj\Debug\ExpressoesLambda.Properties.Resources.resources
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\ExpressoesLambda\obj\Debug\ExpressoesLambda.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\ExpressoesLambda\obj\Debug\ExpressoesLambda.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\ExpressoesLambda\obj\Debug\ExpressoesLambda.exe
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\ExpressoesLambda\obj\Debug\ExpressoesLambda.pdb

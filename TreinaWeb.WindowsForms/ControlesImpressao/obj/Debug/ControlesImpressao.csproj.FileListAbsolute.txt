@@ -1,0 +1,10 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ControlesImpressao\bin\Debug\ControlesImpressao.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ControlesImpressao\bin\Debug\ControlesImpressao.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ControlesImpressao\bin\Debug\ControlesImpressao.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ControlesImpressao\obj\Debug\ControlesImpressao.FrmImpressao.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ControlesImpressao\obj\Debug\ControlesImpressao.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ControlesImpressao\obj\Debug\ControlesImpressao.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ControlesImpressao\obj\Debug\ControlesImpressao.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ControlesImpressao\obj\Debug\ControlesImpressao.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ControlesImpressao\obj\Debug\ControlesImpressao.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ControlesImpressao\obj\Debug\ControlesImpressao.csprojResolveAssemblyReference.cache

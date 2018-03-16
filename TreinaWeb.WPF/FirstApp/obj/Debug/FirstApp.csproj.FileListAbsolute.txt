@@ -1,0 +1,15 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstApp\bin\Debug\FirstApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstApp\bin\Debug\FirstApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstApp\bin\Debug\FirstApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstApp\obj\Debug\FirstApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstApp\obj\Debug\FirstApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstApp\obj\Debug\FirstApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstApp\obj\Debug\FirstApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstApp\obj\Debug\FirstApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstApp\obj\Debug\FirstApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstApp\obj\Debug\FirstApp.pdb

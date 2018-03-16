@@ -1,0 +1,29 @@
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula16_PrimeiroExercicio\bin\Debug\Aula16_PrimeiroExercicio.exe.config
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula16_PrimeiroExercicio\bin\Debug\Aula16_PrimeiroExercicio.exe
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula16_PrimeiroExercicio\bin\Debug\Aula16_PrimeiroExercicio.pdb
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula16_PrimeiroExercicio\obj\Debug\Aula16_PrimeiroExercicio.csprojResolveAssemblyReference.cache
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula16_PrimeiroExercicio\obj\Debug\MainWindow.g.cs
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula16_PrimeiroExercicio\obj\Debug\App.g.cs
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula16_PrimeiroExercicio\obj\Debug\Aula16_PrimeiroExercicio_MarkupCompile.cache
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula16_PrimeiroExercicio\obj\Debug\Aula16_PrimeiroExercicio_MarkupCompile.lref
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula16_PrimeiroExercicio\obj\Debug\MainWindow.baml
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula16_PrimeiroExercicio\obj\Debug\Aula16_PrimeiroExercicio.g.resources
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula16_PrimeiroExercicio\obj\Debug\Aula16_PrimeiroExercicio.Properties.Resources.resources
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula16_PrimeiroExercicio\obj\Debug\Aula16_PrimeiroExercicio.csproj.GenerateResource.Cache
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula16_PrimeiroExercicio\obj\Debug\Aula16_PrimeiroExercicio.exe
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula16_PrimeiroExercicio\obj\Debug\Aula16_PrimeiroExercicio.pdb
+C:\Users\Henrique Baron\Source\Repos\Aula16_PrimeiroExercicio\bin\Debug\Aula16_PrimeiroExercicio.exe.config
+C:\Users\Henrique Baron\Source\Repos\Aula16_PrimeiroExercicio\bin\Debug\Aula16_PrimeiroExercicio.exe
+C:\Users\Henrique Baron\Source\Repos\Aula16_PrimeiroExercicio\bin\Debug\Aula16_PrimeiroExercicio.pdb
+C:\Users\Henrique Baron\Source\Repos\Aula16_PrimeiroExercicio\obj\Debug\Aula16_PrimeiroExercicio.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\Aula16_PrimeiroExercicio\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\Aula16_PrimeiroExercicio\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\Aula16_PrimeiroExercicio\obj\Debug\Aula16_PrimeiroExercicio_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\Aula16_PrimeiroExercicio\obj\Debug\Aula16_PrimeiroExercicio_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\Aula16_PrimeiroExercicio\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\Aula16_PrimeiroExercicio\obj\Debug\Aula16_PrimeiroExercicio.g.resources
+C:\Users\Henrique Baron\Source\Repos\Aula16_PrimeiroExercicio\obj\Debug\Aula16_PrimeiroExercicio.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\Aula16_PrimeiroExercicio\obj\Debug\Aula16_PrimeiroExercicio.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\Aula16_PrimeiroExercicio\obj\Debug\Aula16_PrimeiroExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\Aula16_PrimeiroExercicio\obj\Debug\Aula16_PrimeiroExercicio.exe
+C:\Users\Henrique Baron\Source\Repos\Aula16_PrimeiroExercicio\obj\Debug\Aula16_PrimeiroExercicio.pdb

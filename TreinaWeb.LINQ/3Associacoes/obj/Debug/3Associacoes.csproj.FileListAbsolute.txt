@@ -1,0 +1,7 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\3Associacoes\bin\Debug\3Associacoes.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\3Associacoes\bin\Debug\3Associacoes.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\3Associacoes\bin\Debug\3Associacoes.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\3Associacoes\obj\Debug\3Associacoes.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\3Associacoes\obj\Debug\3Associacoes.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\3Associacoes\obj\Debug\3Associacoes.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\3Associacoes\obj\Debug\3Associacoes.pdb

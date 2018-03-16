@@ -1,0 +1,15 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TemplateBindingApp\bin\Debug\TemplateBindingApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TemplateBindingApp\bin\Debug\TemplateBindingApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TemplateBindingApp\bin\Debug\TemplateBindingApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TemplateBindingApp\obj\Debug\TemplateBindingApp.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TemplateBindingApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TemplateBindingApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TemplateBindingApp\obj\Debug\TemplateBindingApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TemplateBindingApp\obj\Debug\TemplateBindingApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TemplateBindingApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TemplateBindingApp\obj\Debug\TemplateBindingApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TemplateBindingApp\obj\Debug\TemplateBindingApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TemplateBindingApp\obj\Debug\TemplateBindingApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TemplateBindingApp\obj\Debug\TemplateBindingApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TemplateBindingApp\obj\Debug\TemplateBindingApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\TemplateBindingApp\obj\Debug\TemplateBindingApp.pdb

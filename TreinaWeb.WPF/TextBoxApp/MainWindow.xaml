@@ -1,0 +1,16 @@
+﻿<Window x:Class="TextBoxApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TextBoxApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel Margin="10">
+        <TextBlock Text="Digite um texto qualquer" />
+        <TextBox x:Name="txtEntrada" Height="80"
+                 AcceptsReturn="True" TextWrapping="Wrap" />
+        <Button Width="100" Content="Exibir texto" Click="Button_Click"/>
+        <TextBlock x:Name="txtResultado" TextWrapping="Wrap"/>
+    </StackPanel>
+</Window>

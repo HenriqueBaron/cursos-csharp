@@ -1,0 +1,8 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\LoginControl\obj\Debug\LoginControl.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\LoginControl\obj\Debug\LoginControl.Login.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\LoginControl\obj\Debug\LoginControl.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\LoginControl\obj\Debug\LoginControl.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\LoginControl\bin\Debug\LoginControl.dll
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\LoginControl\bin\Debug\LoginControl.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\LoginControl\obj\Debug\LoginControl.dll
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\LoginControl\obj\Debug\LoginControl.pdb

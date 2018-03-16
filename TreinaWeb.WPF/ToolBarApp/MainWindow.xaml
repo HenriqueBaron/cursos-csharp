@@ -1,0 +1,50 @@
+﻿<Window x:Class="ToolBarApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToolBarApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <DockPanel>
+        <ToolBarTray DockPanel.Dock="Top">
+            <ToolBar>
+                <Button Content="Novo" Click="ToolBarNovo_Click"/>
+                <Button Content="Abrir" Click="ToolBarAbrir_Click"/>
+                <Button Content="Salvar" Click="ToolBarSalvar_Click"/>
+            </ToolBar>
+            <ToolBar>
+                <Button Content="Recortar"/>
+                <Button Content="Copiar"/>
+                <!--O OverflowMode do botão "Colar" definido como Always faz com que ele sempre seja exibido apenas no menu secundário (drop-down).-->
+                <Button Content="Colar" ToolBar.OverflowMode="Always"/>
+            </ToolBar>
+            <ToolBar>
+                <Button ToolTip="Exibir carrinho de compras" Height="30">
+                    <Image Source="shopcart_48.png" Stretch="UniformToFill"/>
+                </Button>
+                <!--O OverflowMode do botão "Aprovar compra" como Never faz com que ele seja exibido obrigatoriamente na toolbar, e não seja
+                recolhido para o menu secundário.-->
+                <Button ToolTip="Aprovar compra" Height="30" ToolBar.OverflowMode="Never">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="stamp_48.png" Stretch="UniformToFill"/>
+                        <TextBlock Margin="3,0,0,0" Text="Aprovar" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Button>
+                <Separator/>
+                <StackPanel Margin="5,0,5,0" Orientation="Horizontal">
+                    <TextBlock Text="Frete:" VerticalAlignment="Center"/>
+                    <ComboBox Margin="3,0,0,0" Height="20" VerticalAlignment="Center">
+                        <ComboBoxItem IsSelected="True">Normal</ComboBoxItem>
+                        <ComboBoxItem>Expresso</ComboBoxItem>
+                    </ComboBox>
+                </StackPanel>
+                <StackPanel Margin="5,0,5,0" Orientation="Horizontal" VerticalAlignment="Center">
+                    <TextBlock Text="CEP:" VerticalAlignment="Center"/>
+                    <TextBox Margin="3,0,0,0" Width="80" Height="20"/>
+                </StackPanel>
+            </ToolBar>
+        </ToolBarTray>
+        <TextBox AcceptsReturn="True"/>
+    </DockPanel>
+</Window>

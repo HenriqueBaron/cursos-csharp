@@ -1,0 +1,5 @@
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\CadastroPessoas\CadastroPessoas.Dominio\bin\Release\CadastroPessoas.Dominio.dll
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\CadastroPessoas\CadastroPessoas.Dominio\bin\Release\CadastroPessoas.Dominio.pdb
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\CadastroPessoas\CadastroPessoas.Dominio\obj\Release\CadastroPessoas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\CadastroPessoas\CadastroPessoas.Dominio\obj\Release\CadastroPessoas.Dominio.dll
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\CadastroPessoas\CadastroPessoas.Dominio\obj\Release\CadastroPessoas.Dominio.pdb

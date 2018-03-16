@@ -1,0 +1,20 @@
+﻿<Window x:Class="TextBlockApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TextBlockApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="205" Width="273">
+    <StackPanel>
+        <TextBlock Margin="10" Foreground="Red">
+            Este é um controle TextBlock <LineBreak /> com múltiplas linhas
+        </TextBlock>
+        <TextBlock Margin="10" TextTrimming="CharacterEllipsis" Foreground="Green">
+            Controle TextBlock que não será renderizado totalmente, adicionando "..." ao final.
+        </TextBlock>
+        <TextBlock Margin="10" TextWrapping="Wrap" Foreground="Blue">
+            Controle TextBlock com quebra de linha automática, utilizando a propriedade TextWrapping.
+        </TextBlock>
+    </StackPanel>
+</Window>

@@ -1,0 +1,13 @@
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_SegundoExercicio\bin\Debug\Aula8_SegundoExercicio.exe.config
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_SegundoExercicio\bin\Debug\Aula8_SegundoExercicio.exe
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_SegundoExercicio\bin\Debug\Aula8_SegundoExercicio.pdb
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_SegundoExercicio\obj\Debug\Aula8_SegundoExercicio.exe
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_SegundoExercicio\obj\Debug\Aula8_SegundoExercicio.pdb
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_SegundoExercicio\obj\Debug\Aula8_SegundoExercicio.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Aula8_SegundoExercicio\bin\Debug\Aula8_SegundoExercicio.exe.config
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Aula8_SegundoExercicio\bin\Debug\Aula8_SegundoExercicio.exe
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Aula8_SegundoExercicio\bin\Debug\Aula8_SegundoExercicio.pdb
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Aula8_SegundoExercicio\obj\Debug\Aula8_SegundoExercicio.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Aula8_SegundoExercicio\obj\Debug\Aula8_SegundoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Aula8_SegundoExercicio\obj\Debug\Aula8_SegundoExercicio.exe
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Aula8_SegundoExercicio\obj\Debug\Aula8_SegundoExercicio.pdb

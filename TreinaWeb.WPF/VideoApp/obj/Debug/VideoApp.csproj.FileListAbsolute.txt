@@ -1,0 +1,17 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\VideoApp\bin\Debug\IMG_3172.MOV
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\VideoApp\bin\Debug\VideoApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\VideoApp\bin\Debug\VideoApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\VideoApp\bin\Debug\VideoApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\VideoApp\obj\Debug\VideoApp.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\VideoApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\VideoApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\VideoApp\obj\Debug\VideoApp_Content.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\VideoApp\obj\Debug\VideoApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\VideoApp\obj\Debug\VideoApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\VideoApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\VideoApp\obj\Debug\VideoApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\VideoApp\obj\Debug\VideoApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\VideoApp\obj\Debug\VideoApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\VideoApp\obj\Debug\VideoApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\VideoApp\obj\Debug\VideoApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\VideoApp\obj\Debug\VideoApp.pdb

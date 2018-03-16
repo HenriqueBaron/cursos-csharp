@@ -1,0 +1,30 @@
+﻿<Window x:Class="MySqlEntityApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MySqlEntityApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525"
+        Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Nome:" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,7,0,0" Width="70"/>
+        <Label Content="Descrição:" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,45,0,0" Width="70"/>
+        <TextBox x:Name="txtNome" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5,11,0,0" Height="23" Width="374" TextWrapping="Wrap"/>
+        <TextBox x:Name="txtDescricao" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5,48,0,0" Height="23" Width="374" TextWrapping="Wrap"/>
+        <Button x:Name="btnCadastrar" Content="Cadastrar" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="135,4,0,0"
+                Width="75" Click="btnCadastrar_Click"/>
+        <DataGrid x:Name="dgCursos" Grid.ColumnSpan="2" Grid.Column="0" Grid.Row="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+    </Grid>
+</Window>

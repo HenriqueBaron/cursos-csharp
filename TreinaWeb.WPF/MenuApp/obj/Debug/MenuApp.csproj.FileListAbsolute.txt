@@ -1,0 +1,15 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\MenuApp\bin\Debug\MenuApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\MenuApp\bin\Debug\MenuApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\MenuApp\bin\Debug\MenuApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\MenuApp\obj\Debug\MenuApp.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\MenuApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\MenuApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\MenuApp\obj\Debug\MenuApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\MenuApp\obj\Debug\MenuApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\MenuApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\MenuApp\obj\Debug\MenuApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\MenuApp\obj\Debug\MenuApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\MenuApp\obj\Debug\MenuApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\MenuApp\obj\Debug\MenuApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\MenuApp\obj\Debug\MenuApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\MenuApp\obj\Debug\MenuApp.pdb

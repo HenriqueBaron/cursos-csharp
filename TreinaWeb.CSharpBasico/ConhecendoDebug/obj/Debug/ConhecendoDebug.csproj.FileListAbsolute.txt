@@ -1,0 +1,6 @@
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\ConhecendoDebug\bin\Debug\ConhecendoDebug.exe.config
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\ConhecendoDebug\bin\Debug\ConhecendoDebug.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\ConhecendoDebug\bin\Debug\ConhecendoDebug.pdb
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\ConhecendoDebug\obj\Debug\ConhecendoDebug.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\ConhecendoDebug\obj\Debug\ConhecendoDebug.pdb
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\ConhecendoDebug\obj\Debug\ConhecendoDebug.csprojResolveAssemblyReference.cache

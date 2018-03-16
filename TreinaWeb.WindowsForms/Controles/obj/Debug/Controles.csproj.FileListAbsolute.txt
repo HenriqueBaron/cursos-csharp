@@ -1,0 +1,13 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\Controles\bin\Debug\Controles.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\Controles\bin\Debug\Controles.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\Controles\bin\Debug\Controles.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\Controles\obj\Debug\Controles.FrmControles.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\Controles\obj\Debug\Controles.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\Controles\obj\Debug\Controles.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\Controles\obj\Debug\Controles.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\Controles\obj\Debug\Controles.frmCommonDialogs.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\Controles\obj\Debug\Controles.frmListView.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\Controles\obj\Debug\Controles.frmListViewImageList.resources

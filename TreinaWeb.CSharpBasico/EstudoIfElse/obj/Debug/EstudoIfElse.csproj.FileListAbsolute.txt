@@ -1,0 +1,9 @@
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoIfElse\bin\Debug\EstudoIfElse.exe.config
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoIfElse\bin\Debug\EstudoIfElse.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoIfElse\bin\Debug\EstudoIfElse.pdb
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoIfElse\obj\Debug\EstudoIfElse.csprojResolveAssemblyReference.cache
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoIfElse\obj\Debug\EstudoIfElse.frmIfElse.resources
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoIfElse\obj\Debug\EstudoIfElse.Properties.Resources.resources
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoIfElse\obj\Debug\EstudoIfElse.csproj.GenerateResource.Cache
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoIfElse\obj\Debug\EstudoIfElse.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoIfElse\obj\Debug\EstudoIfElse.pdb

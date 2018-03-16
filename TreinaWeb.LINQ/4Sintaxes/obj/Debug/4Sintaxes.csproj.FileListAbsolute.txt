@@ -1,0 +1,7 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\4Sintaxes\bin\Debug\4Sintaxes.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\4Sintaxes\bin\Debug\4Sintaxes.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\4Sintaxes\bin\Debug\4Sintaxes.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\4Sintaxes\obj\Debug\4Sintaxes.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\4Sintaxes\obj\Debug\4Sintaxes.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\4Sintaxes\obj\Debug\4Sintaxes.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\4Sintaxes\obj\Debug\4Sintaxes.pdb

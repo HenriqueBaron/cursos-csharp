@@ -1,0 +1,23 @@
+﻿<Window x:Class="MultiFormsApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MultiFormsApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="btnSemParametro" Content="Sem parâmetro" Margin="20,25,0,0" 
+                HorizontalAlignment="Left" VerticalAlignment="Top" Width="100"
+                Click="btnSemParametro_Click"/>
+        <Button x:Name="btnComParametro" Content="Com parâmetro" Margin="150,25,0,0"
+                HorizontalAlignment="Left" VerticalAlignment="Top" Width="100"
+                Click="btnComParametro_Click"/>
+        <Button x:Name="btnCaixaDialogo" Content="Caixa Diálogo" Margin="20,75,0,0"
+                HorizontalAlignment="Left" VerticalAlignment="Top" Width="100"
+                Click="btnCaixaDialogo_Click"/>
+        <Button x:Name="btnRespostaDialogo" Content="Resposta Diálogo" Margin="150,75,0,0"
+                HorizontalAlignment="Left" VerticalAlignment="Top" Width="100"
+                Click="btnRespostaDialogo_Click"/>
+    </Grid>
+</Window>

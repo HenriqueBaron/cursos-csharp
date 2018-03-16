@@ -1,0 +1,16 @@
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex12-1.EstoqueXML\obj\Debug\Ex12-2.EstoqueMySQL.csprojResolveAssemblyReference.cache
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex12-1.EstoqueXML\obj\Debug\Ex12_1.EstoqueXML.frmControleEstoque.resources
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex12-1.EstoqueXML\obj\Debug\Ex12_1.EstoqueXML.frmCriarOuEditar.resources
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex12-1.EstoqueXML\obj\Debug\Ex12_2.EstoqueMySQL.Properties.Resources.resources
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex12-1.EstoqueXML\obj\Debug\Ex12-2.EstoqueMySQL.csproj.GenerateResource.Cache
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex12-2.EstoqueMySQL\bin\Debug\Ex12-1.EstoqueXML.exe.config
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex12-2.EstoqueMySQL\bin\Debug\Ex12-1.EstoqueXML.exe
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex12-2.EstoqueMySQL\bin\Debug\Ex12-1.EstoqueXML.pdb
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex12-2.EstoqueMySQL\obj\Debug\Ex12-2.EstoqueMySQL.csprojResolveAssemblyReference.cache
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex12-2.EstoqueMySQL\obj\Debug\Ex12_1.EstoqueXML.frmControleEstoque.resources
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex12-2.EstoqueMySQL\obj\Debug\Ex12_1.EstoqueXML.frmCriarOuEditar.resources
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex12-2.EstoqueMySQL\obj\Debug\Ex12_1.EstoqueXML.Properties.Resources.resources
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex12-2.EstoqueMySQL\obj\Debug\Ex12-2.EstoqueMySQL.csproj.GenerateResource.Cache
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex12-2.EstoqueMySQL\obj\Debug\Ex12-1.EstoqueXML.exe
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex12-2.EstoqueMySQL\obj\Debug\Ex12-1.EstoqueXML.pdb
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex12-2.EstoqueMySQL\bin\Debug\MySql.Data.dll

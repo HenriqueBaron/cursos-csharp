@@ -1,0 +1,9 @@
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoEnumeradores\bin\Debug\EstudoEnumeradores.exe.config
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoEnumeradores\bin\Debug\EstudoEnumeradores.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoEnumeradores\bin\Debug\EstudoEnumeradores.pdb
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoEnumeradores\obj\Debug\EstudoEnumeradores.csprojResolveAssemblyReference.cache
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoEnumeradores\obj\Debug\EstudoEnumeradores.frmEstudoEnums.resources
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoEnumeradores\obj\Debug\EstudoEnumeradores.Properties.Resources.resources
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoEnumeradores\obj\Debug\EstudoEnumeradores.csproj.GenerateResource.Cache
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoEnumeradores\obj\Debug\EstudoEnumeradores.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoEnumeradores\obj\Debug\EstudoEnumeradores.pdb

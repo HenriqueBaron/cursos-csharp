@@ -1,0 +1,10 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\BackgroundWorker\bin\Debug\BackgroundWorker.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\BackgroundWorker\bin\Debug\BackgroundWorker.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\BackgroundWorker\bin\Debug\BackgroundWorker.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\BackgroundWorker\obj\Debug\BackgroundWorker.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\BackgroundWorker\obj\Debug\TesteBackgroundWorker.frmBackgroundWorker.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\BackgroundWorker\obj\Debug\BackgroundWorker.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\BackgroundWorker\obj\Debug\BackgroundWorker.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\BackgroundWorker\obj\Debug\BackgroundWorker.pdb

@@ -1,0 +1,9 @@
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex14-1_IMC\bin\Debug\Ex14-1_IMC.exe.config
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex14-1_IMC\bin\Debug\Ex14-1_IMC.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex14-1_IMC\bin\Debug\Ex14-1_IMC.pdb
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex14-1_IMC\obj\Debug\Ex14-1_IMC.csprojResolveAssemblyReference.cache
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex14-1_IMC\obj\Debug\Ex14_1_IMC.frmCalculoIMC.resources
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex14-1_IMC\obj\Debug\Ex14_1_IMC.Properties.Resources.resources
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex14-1_IMC\obj\Debug\Ex14-1_IMC.csproj.GenerateResource.Cache
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex14-1_IMC\obj\Debug\Ex14-1_IMC.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex14-1_IMC\obj\Debug\Ex14-1_IMC.pdb

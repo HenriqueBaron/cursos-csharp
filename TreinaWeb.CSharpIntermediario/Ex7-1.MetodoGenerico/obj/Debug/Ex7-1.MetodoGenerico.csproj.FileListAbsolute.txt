@@ -1,0 +1,12 @@
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-1.MetodoGenerico\bin\Debug\Ex7-1.MetodoGenerico.exe.config
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-1.MetodoGenerico\bin\Debug\Ex7-1.MetodoGenerico.exe
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-1.MetodoGenerico\bin\Debug\Ex7-1.MetodoGenerico.pdb
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-1.MetodoGenerico\obj\Debug\Ex7-1.MetodoGenerico.csprojResolveAssemblyReference.cache
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-1.MetodoGenerico\obj\Debug\Ex7-1.MetodoGenerico.exe
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-1.MetodoGenerico\obj\Debug\Ex7-1.MetodoGenerico.pdb
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-1.MetodoGenerico\bin\Debug\Ex7-1.MetodoGenerico.exe.config
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-1.MetodoGenerico\bin\Debug\Ex7-1.MetodoGenerico.exe
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-1.MetodoGenerico\bin\Debug\Ex7-1.MetodoGenerico.pdb
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-1.MetodoGenerico\obj\Debug\Ex7-1.MetodoGenerico.csprojResolveAssemblyReference.cache
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-1.MetodoGenerico\obj\Debug\Ex7-1.MetodoGenerico.exe
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\Ex7-1.MetodoGenerico\obj\Debug\Ex7-1.MetodoGenerico.pdb

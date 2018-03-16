@@ -1,0 +1,6 @@
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_TerceiroExercicio\bin\Debug\Aula8_TerceiroExercicio.exe.config
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_TerceiroExercicio\bin\Debug\Aula8_TerceiroExercicio.exe
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_TerceiroExercicio\bin\Debug\Aula8_TerceiroExercicio.pdb
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_TerceiroExercicio\obj\Debug\Aula8_TerceiroExercicio.csprojResolveAssemblyReference.cache
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_TerceiroExercicio\obj\Debug\Aula8_TerceiroExercicio.exe
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_TerceiroExercicio\obj\Debug\Aula8_TerceiroExercicio.pdb

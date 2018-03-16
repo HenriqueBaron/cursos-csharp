@@ -1,0 +1,16 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingMultiPropApp\bin\Debug\DataBindingMultiPropApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingMultiPropApp\bin\Debug\DataBindingMultiPropApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingMultiPropApp\bin\Debug\DataBindingMultiPropApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingMultiPropApp\obj\Debug\DataBindingMultiPropApp.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingMultiPropApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingMultiPropApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingMultiPropApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingMultiPropApp\obj\Debug\DataBindingMultiPropApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingMultiPropApp\obj\Debug\DataBindingMultiPropApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingMultiPropApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingMultiPropApp\obj\Debug\DataBindingMultiPropApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingMultiPropApp\obj\Debug\DataBindingMultiPropApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingMultiPropApp\obj\Debug\DataBindingMultiPropApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingMultiPropApp\obj\Debug\DataBindingMultiPropApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingMultiPropApp\obj\Debug\DataBindingMultiPropApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DataBindingMultiPropApp\obj\Debug\DataBindingMultiPropApp.pdb

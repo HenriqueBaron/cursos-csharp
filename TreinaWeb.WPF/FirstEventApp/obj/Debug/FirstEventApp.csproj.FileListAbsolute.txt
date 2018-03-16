@@ -1,0 +1,15 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstEventApp\bin\Debug\FirstEventApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstEventApp\bin\Debug\FirstEventApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstEventApp\bin\Debug\FirstEventApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstEventApp\obj\Debug\FirstEventApp.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstEventApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstEventApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstEventApp\obj\Debug\FirstEventApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstEventApp\obj\Debug\FirstEventApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstEventApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstEventApp\obj\Debug\FirstEventApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstEventApp\obj\Debug\FirstEventApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstEventApp\obj\Debug\FirstEventApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstEventApp\obj\Debug\FirstEventApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstEventApp\obj\Debug\FirstEventApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FirstEventApp\obj\Debug\FirstEventApp.pdb

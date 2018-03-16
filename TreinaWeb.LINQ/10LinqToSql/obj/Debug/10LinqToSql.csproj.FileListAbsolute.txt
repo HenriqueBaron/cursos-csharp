@@ -1,0 +1,7 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\10LinqToSql\bin\Debug\10LinqToSql.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\10LinqToSql\bin\Debug\10LinqToSql.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\10LinqToSql\bin\Debug\10LinqToSql.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\10LinqToSql\obj\Debug\10LinqToSql.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\10LinqToSql\obj\Debug\10LinqToSql.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\10LinqToSql\obj\Debug\10LinqToSql.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\10LinqToSql\obj\Debug\10LinqToSql.pdb

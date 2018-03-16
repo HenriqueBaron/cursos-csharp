@@ -1,0 +1,15 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ResourcesApp\bin\Debug\ResourcesApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ResourcesApp\bin\Debug\ResourcesApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ResourcesApp\bin\Debug\ResourcesApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ResourcesApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ResourcesApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ResourcesApp\obj\Debug\ResourcesApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ResourcesApp\obj\Debug\ResourcesApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ResourcesApp\obj\Debug\App.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ResourcesApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ResourcesApp\obj\Debug\ResourcesApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ResourcesApp\obj\Debug\ResourcesApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ResourcesApp\obj\Debug\ResourcesApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ResourcesApp\obj\Debug\ResourcesApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ResourcesApp\obj\Debug\ResourcesApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ResourcesApp\obj\Debug\ResourcesApp.pdb

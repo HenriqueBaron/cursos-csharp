@@ -1,0 +1,14 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\StackPanelApp\bin\Debug\StackPanelApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\StackPanelApp\bin\Debug\StackPanelApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\StackPanelApp\bin\Debug\StackPanelApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\StackPanelApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\StackPanelApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\StackPanelApp\obj\Debug\StackPanelApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\StackPanelApp\obj\Debug\StackPanelApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\StackPanelApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\StackPanelApp\obj\Debug\StackPanelApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\StackPanelApp\obj\Debug\StackPanelApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\StackPanelApp\obj\Debug\StackPanelApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\StackPanelApp\obj\Debug\StackPanelApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\StackPanelApp\obj\Debug\StackPanelApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\StackPanelApp\obj\Debug\StackPanelApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\2Agrupamento\bin\Debug\2Agrupamento.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\2Agrupamento\bin\Debug\2Agrupamento.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\2Agrupamento\bin\Debug\2Agrupamento.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\2Agrupamento\obj\Debug\2Agrupamento.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\2Agrupamento\obj\Debug\2Agrupamento.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\2Agrupamento\obj\Debug\2Agrupamento.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\2Agrupamento\obj\Debug\2Agrupamento.csprojResolveAssemblyReference.cache

@@ -1,0 +1,49 @@
+﻿<RibbonWindow x:Class="RibbonApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RibbonApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Ribbon x:Name="rbnRibbon" Grid.Row="0" SelectedIndex="0">
+            <!-- Application Menu -->
+            <Ribbon.ApplicationMenu>
+                <RibbonApplicationMenu KeyTip="F">
+                    <RibbonApplicationMenuItem Header="Abrir" ImageSource="Imagens\OpenFile_16x.png" KeyTip="O" Click="RibbonAbrir_Click"/>
+                    <RibbonApplicationMenuItem Header="Salvar" ImageSource="Imagens\Save_16x.png" KeyTip="S" Click="RibbonSalvar_Click"/>
+                    <RibbonSeparator/>
+                    <RibbonApplicationMenuItem Header="Sair" KeyTip="E" Click="RibbonSair_Click"/>
+                </RibbonApplicationMenu>
+            </Ribbon.ApplicationMenu>
+
+            <RibbonTab Header="Tab 1" KeyTip="1">
+                <RibbonGroup Header="Clipboard" KeyTip="C">
+                    <RibbonMenuButton Label="Colar" KeyTip="V" LargeImageSource="Imagens\ASX_Paste_blue_16x.png">
+                        <RibbonMenuItem Header="Somente Texto" KeyTip="T"/>
+                        <RibbonMenuItem Header="Colar Especial" KeyTip="E"/>
+                    </RibbonMenuButton>
+                    <RibbonButton Label="Recortar" KeyTip="X" SmallImageSource="Imagens\Cut_16x.png"/>
+                    <RibbonButton Label="Copiar" KeyTip="C" SmallImageSource="Imagens\ASX_Copy_blue_16x.png"/>
+                </RibbonGroup>
+            </RibbonTab>
+
+            <RibbonTab Header="Tab 2" KeyTip="2"/>
+
+            <RibbonTab Header="Tab 3" KeyTip="3"/>
+
+            <Ribbon.QuickAccessToolBar>
+                <RibbonQuickAccessToolBar>
+                    <RibbonButton SmallImageSource="Imagens\Undo_16x.png"/>
+                    <RibbonButton SmallImageSource="Imagens\Redo_16x.png"/>
+                </RibbonQuickAccessToolBar>
+            </Ribbon.QuickAccessToolBar>
+        </Ribbon>
+    </Grid>
+</RibbonWindow>

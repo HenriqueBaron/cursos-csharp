@@ -1,0 +1,10 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ToolStrip\bin\Debug\ToolStrip.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ToolStrip\bin\Debug\ToolStrip.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ToolStrip\bin\Debug\ToolStrip.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ToolStrip\obj\Debug\ToolStrip.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ToolStrip\obj\Debug\ToolStrip.frmToolStrip.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ToolStrip\obj\Debug\ToolStrip.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ToolStrip\obj\Debug\ToolStrip.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ToolStrip\obj\Debug\ToolStrip.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ToolStrip\obj\Debug\ToolStrip.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ToolStrip\obj\Debug\ToolStrip.pdb

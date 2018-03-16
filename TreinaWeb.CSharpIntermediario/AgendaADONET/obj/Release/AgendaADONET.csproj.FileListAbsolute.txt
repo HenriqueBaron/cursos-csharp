@@ -1,0 +1,11 @@
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\AgendaADONET\bin\Release\AgendaADONET.exe.config
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\AgendaADONET\bin\Release\AgendaADONET.exe
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\AgendaADONET\bin\Release\AgendaADONET.pdb
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\AgendaADONET\bin\Release\MySql.Data.dll
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\AgendaADONET\obj\Release\AgendaADONET.csprojResolveAssemblyReference.cache
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\AgendaADONET\obj\Release\AgendaADONET.frmAgenda.resources
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\AgendaADONET\obj\Release\AgendaADONET.frmIncluirAlterarContato.resources
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\AgendaADONET\obj\Release\AgendaADONET.Properties.Resources.resources
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\AgendaADONET\obj\Release\AgendaADONET.csproj.GenerateResource.Cache
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\AgendaADONET\obj\Release\AgendaADONET.exe
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\AgendaADONET\obj\Release\AgendaADONET.pdb

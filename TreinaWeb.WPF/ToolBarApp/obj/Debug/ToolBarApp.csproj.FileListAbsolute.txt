@@ -1,0 +1,15 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ToolBarApp\bin\Debug\ToolBarApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ToolBarApp\bin\Debug\ToolBarApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ToolBarApp\bin\Debug\ToolBarApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ToolBarApp\obj\Debug\ToolBarApp.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ToolBarApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ToolBarApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ToolBarApp\obj\Debug\ToolBarApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ToolBarApp\obj\Debug\ToolBarApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ToolBarApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ToolBarApp\obj\Debug\ToolBarApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ToolBarApp\obj\Debug\ToolBarApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ToolBarApp\obj\Debug\ToolBarApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ToolBarApp\obj\Debug\ToolBarApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ToolBarApp\obj\Debug\ToolBarApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ToolBarApp\obj\Debug\ToolBarApp.pdb

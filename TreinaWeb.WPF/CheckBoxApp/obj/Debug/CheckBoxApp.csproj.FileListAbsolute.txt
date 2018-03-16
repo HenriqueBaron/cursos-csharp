@@ -1,0 +1,14 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\CheckBoxApp\bin\Debug\CheckBoxApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\CheckBoxApp\bin\Debug\CheckBoxApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\CheckBoxApp\bin\Debug\CheckBoxApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\CheckBoxApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\CheckBoxApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\CheckBoxApp\obj\Debug\CheckBoxApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\CheckBoxApp\obj\Debug\CheckBoxApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\CheckBoxApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\CheckBoxApp\obj\Debug\CheckBoxApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\CheckBoxApp\obj\Debug\CheckBoxApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\CheckBoxApp\obj\Debug\CheckBoxApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\CheckBoxApp\obj\Debug\CheckBoxApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\CheckBoxApp\obj\Debug\CheckBoxApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\CheckBoxApp\obj\Debug\CheckBoxApp.pdb

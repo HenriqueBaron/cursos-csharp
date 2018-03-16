@@ -1,0 +1,6 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Dominio\bin\Debug\TreinaWeb.CSAvEx162.Dominio.dll
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Dominio\bin\Debug\TreinaWeb.CSAvEx162.Dominio.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Dominio\obj\Debug\TreinaWeb.CSAvEx162.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Dominio\obj\Debug\TreinaWeb.CSAvEx162.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Dominio\obj\Debug\TreinaWeb.CSAvEx162.Dominio.dll
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Dominio\obj\Debug\TreinaWeb.CSAvEx162.Dominio.pdb

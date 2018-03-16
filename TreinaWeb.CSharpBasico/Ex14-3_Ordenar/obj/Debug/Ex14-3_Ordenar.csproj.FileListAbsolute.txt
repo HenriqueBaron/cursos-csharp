@@ -1,0 +1,9 @@
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex14-3_Ordenar\bin\Debug\Ex14-3_Ordenar.exe.config
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex14-3_Ordenar\bin\Debug\Ex14-3_Ordenar.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex14-3_Ordenar\bin\Debug\Ex14-3_Ordenar.pdb
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex14-3_Ordenar\obj\Debug\Ex14_3_Ordenar.FrmOrdenarLista.resources
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex14-3_Ordenar\obj\Debug\Ex14_3_Ordenar.Properties.Resources.resources
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex14-3_Ordenar\obj\Debug\Ex14-3_Ordenar.csproj.GenerateResource.Cache
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex14-3_Ordenar\obj\Debug\Ex14-3_Ordenar.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex14-3_Ordenar\obj\Debug\Ex14-3_Ordenar.pdb
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex14-3_Ordenar\obj\Debug\Ex14-3_Ordenar.csprojResolveAssemblyReference.cache

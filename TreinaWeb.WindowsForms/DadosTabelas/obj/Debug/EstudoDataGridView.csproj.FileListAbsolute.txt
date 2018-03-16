@@ -1,0 +1,10 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DadosTabelas\bin\Debug\DadosTabelas.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DadosTabelas\bin\Debug\DadosTabelas.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DadosTabelas\bin\Debug\DadosTabelas.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DadosTabelas\obj\Debug\EstudoDataGridView.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DadosTabelas\obj\Debug\DadosTabelas.frmDataGridView.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DadosTabelas\obj\Debug\DadosTabelas.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DadosTabelas\obj\Debug\EstudoDataGridView.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DadosTabelas\obj\Debug\EstudoDataGridView.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DadosTabelas\obj\Debug\DadosTabelas.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\DadosTabelas\obj\Debug\DadosTabelas.pdb

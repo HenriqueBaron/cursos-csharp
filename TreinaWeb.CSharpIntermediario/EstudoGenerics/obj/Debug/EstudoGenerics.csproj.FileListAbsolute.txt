@@ -1,0 +1,12 @@
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\EstudoGenerics\bin\Debug\EstudoGenerics.exe.config
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\EstudoGenerics\bin\Debug\EstudoGenerics.exe
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\EstudoGenerics\bin\Debug\EstudoGenerics.pdb
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.csprojResolveAssemblyReference.cache
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.exe
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.pdb
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\EstudoGenerics\bin\Debug\EstudoGenerics.exe.config
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\EstudoGenerics\bin\Debug\EstudoGenerics.exe
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\EstudoGenerics\bin\Debug\EstudoGenerics.pdb
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.csprojResolveAssemblyReference.cache
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.exe
+C:\Users\henrique.baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.pdb

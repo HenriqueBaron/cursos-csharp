@@ -1,0 +1,15 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DockPanelApp\bin\Debug\DockPanelApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DockPanelApp\bin\Debug\DockPanelApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DockPanelApp\bin\Debug\DockPanelApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DockPanelApp\obj\Debug\DockPanelApp.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DockPanelApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DockPanelApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DockPanelApp\obj\Debug\DockPanelApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DockPanelApp\obj\Debug\DockPanelApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DockPanelApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DockPanelApp\obj\Debug\DockPanelApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DockPanelApp\obj\Debug\DockPanelApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DockPanelApp\obj\Debug\DockPanelApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DockPanelApp\obj\Debug\DockPanelApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DockPanelApp\obj\Debug\DockPanelApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\DockPanelApp\obj\Debug\DockPanelApp.pdb

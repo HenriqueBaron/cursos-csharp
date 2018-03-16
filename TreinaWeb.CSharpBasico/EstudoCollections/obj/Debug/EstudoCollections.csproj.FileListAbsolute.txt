@@ -1,0 +1,6 @@
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoCollections\bin\Debug\EstudoCollections.exe.config
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoCollections\bin\Debug\EstudoCollections.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoCollections\bin\Debug\EstudoCollections.pdb
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoCollections\obj\Debug\EstudoCollections.csprojResolveAssemblyReference.cache
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoCollections\obj\Debug\EstudoCollections.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoCollections\obj\Debug\EstudoCollections.pdb

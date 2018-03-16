@@ -1,0 +1,9 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EditorRichText\bin\Debug\EditorRichText.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EditorRichText\bin\Debug\EditorRichText.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EditorRichText\bin\Debug\EditorRichText.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EditorRichText\obj\Debug\EditorRichText.frmEditorRT.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EditorRichText\obj\Debug\EditorRichText.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EditorRichText\obj\Debug\EditorRichText.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EditorRichText\obj\Debug\EditorRichText.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EditorRichText\obj\Debug\EditorRichText.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EditorRichText\obj\Debug\EditorRichText.pdb

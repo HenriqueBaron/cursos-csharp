@@ -1,0 +1,18 @@
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\EstudoEventos\bin\Debug\EstudoEventos.exe
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\EstudoEventos\bin\Debug\EstudoEventos.pdb
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\EstudoEventos\obj\Debug\EstudoEventos.csprojResolveAssemblyReference.cache
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\EstudoEventos\obj\Debug\EstudoEventos.frmGerenciadorLatidosCachorros.resources
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\EstudoEventos\obj\Debug\EstudoEventos.Properties.Resources.resources
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\EstudoEventos\obj\Debug\EstudoEventos.csproj.GenerateResource.Cache
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\EstudoEventos\obj\Debug\EstudoEventos.exe
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\EstudoEventos\obj\Debug\EstudoEventos.pdb
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\EstudoEventos\bin\Debug\EstudoEventos.exe.config
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\EstudoEventos\bin\Debug\EstudoEventos.exe
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\EstudoEventos\bin\Debug\EstudoEventos.pdb
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\EstudoEventos\obj\Debug\EstudoEventos.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\EstudoEventos\obj\Debug\EstudoEventos.frmGerenciadorLatidosCachorros.resources
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\EstudoEventos\obj\Debug\EstudoEventos.Properties.Resources.resources
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\EstudoEventos\obj\Debug\EstudoEventos.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\EstudoEventos\obj\Debug\EstudoEventos.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\EstudoEventos\obj\Debug\EstudoEventos.exe
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\EstudoEventos\obj\Debug\EstudoEventos.pdb

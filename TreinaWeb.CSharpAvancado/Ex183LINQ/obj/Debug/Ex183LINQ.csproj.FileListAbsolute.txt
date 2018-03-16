@@ -1,0 +1,7 @@
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Ex183LINQ\bin\Debug\Ex183LINQ.exe.config
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Ex183LINQ\bin\Debug\Ex183LINQ.exe
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Ex183LINQ\bin\Debug\Ex183LINQ.pdb
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Ex183LINQ\obj\Debug\Ex183LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Ex183LINQ\obj\Debug\Ex183LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Ex183LINQ\obj\Debug\Ex183LINQ.exe
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Ex183LINQ\obj\Debug\Ex183LINQ.pdb

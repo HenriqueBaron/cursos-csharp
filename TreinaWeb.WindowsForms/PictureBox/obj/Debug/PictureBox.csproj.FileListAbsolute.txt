@@ -1,0 +1,10 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\PictureBox\bin\Debug\PictureBox.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\PictureBox\bin\Debug\PictureBox.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\PictureBox\bin\Debug\PictureBox.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\PictureBox\obj\Debug\PictureBox.frmPictureBox.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\PictureBox\obj\Debug\PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\PictureBox\obj\Debug\PictureBox.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\PictureBox\obj\Debug\PictureBox.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\PictureBox\obj\Debug\PictureBox.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+﻿<Window x:Class="Aula16_PrimeiroExercicio.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aula16_PrimeiroExercicio"
+        mc:Ignorable="d"
+        Title="Catalógo de livros!" Height="350" Width="672.561" Loaded="Window_Loaded">
+    <Grid>
+        <DataGrid x:Name="dgLivros" HorizontalAlignment="Left" Margin="10,22,0,0" VerticalAlignment="Top" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Path=Id}" Header="Id"/>
+                <DataGridTextColumn Binding="{Binding Path=Author}" Header="Autor"/>
+                <DataGridTextColumn Binding="{Binding Path=Title}" Header="Título"/>
+                <DataGridTextColumn Binding="{Binding Path=Genre}" Header="Gênero"/>
+                <DataGridTextColumn Binding="{Binding Path=Price}" Header="Preço"/>
+                <DataGridTextColumn Binding="{Binding Path=PublishDate}" Header="Data de publicação"/>
+                <DataGridTextColumn Binding="{Binding Path=Description}" Header="Descrição"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

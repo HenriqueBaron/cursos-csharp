@@ -1,0 +1,16 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Persist\bin\Debug\TreinaWeb.CSAvEx162.Persist.dll.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Persist\bin\Debug\TreinaWeb.CSAvEx162.Persist.dll
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Persist\bin\Debug\TreinaWeb.CSAvEx162.Persist.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Persist\bin\Debug\EntityFramework.dll
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Persist\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Persist\bin\Debug\EntityFramework.xml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Persist\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Persist\obj\Debug\TreinaWeb.CSAvEx162.Persist.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Persist\obj\Debug\TreinaWeb.CSAvEx162.Persist.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Persist\obj\Debug\TreinaWeb.CSAvEx162.Persist.dll
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Persist\obj\Debug\TreinaWeb.CSAvEx162.Persist.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Persist\bin\Debug\TreinaWeb.CSAvEx162.Dominio.dll
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Persist\bin\Debug\TreinaWeb.CSAvEx162.Dominio.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Persist\obj\Debug\TreinaWeb.CSAvEx162.Persist.Migrations.Criacao_Produto_Venda.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Persist\obj\Debug\TreinaWeb.CSAvEx162.Persist.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.CSAvEx162\TreinaWeb.CSAvEx162.Persist\obj\Debug\TreinaWeb.CSAvEx162.Persist.Migrations.Criacao_Produto_Venda1.resources

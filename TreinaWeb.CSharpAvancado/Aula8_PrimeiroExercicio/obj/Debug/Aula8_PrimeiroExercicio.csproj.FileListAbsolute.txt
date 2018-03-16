@@ -1,0 +1,19 @@
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_PrimeiroExercicio\bin\Debug\Aula8_PrimeiroExercicio.exe.config
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_PrimeiroExercicio\bin\Debug\Aula8_PrimeiroExercicio.exe
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_PrimeiroExercicio\bin\Debug\Aula8_PrimeiroExercicio.pdb
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.csprojResolveAssemblyReference.cache
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.Properties.Resources.resources
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.csproj.GenerateResource.Cache
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.exe
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.pdb
+C:\Curso\Treina\CSharpAvancadoExercicios\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.frmTeste.resources
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Aula8_PrimeiroExercicio\bin\Debug\Aula8_PrimeiroExercicio.exe.config
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Aula8_PrimeiroExercicio\bin\Debug\Aula8_PrimeiroExercicio.exe
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Aula8_PrimeiroExercicio\bin\Debug\Aula8_PrimeiroExercicio.pdb
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.frmTeste.resources
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.Properties.Resources.resources
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.exe
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\Aula8_PrimeiroExercicio\obj\Debug\Aula8_PrimeiroExercicio.pdb

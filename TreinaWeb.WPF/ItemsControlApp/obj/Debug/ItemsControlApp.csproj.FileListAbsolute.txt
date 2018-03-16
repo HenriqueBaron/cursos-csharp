@@ -1,0 +1,15 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ItemsControlApp\bin\Debug\ItemsControlApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ItemsControlApp\bin\Debug\ItemsControlApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ItemsControlApp\bin\Debug\ItemsControlApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ItemsControlApp\obj\Debug\ItemsControlApp.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ItemsControlApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ItemsControlApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ItemsControlApp\obj\Debug\ItemsControlApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ItemsControlApp\obj\Debug\ItemsControlApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ItemsControlApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ItemsControlApp\obj\Debug\ItemsControlApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ItemsControlApp\obj\Debug\ItemsControlApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ItemsControlApp\obj\Debug\ItemsControlApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ItemsControlApp\obj\Debug\ItemsControlApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ItemsControlApp\obj\Debug\ItemsControlApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\ItemsControlApp\obj\Debug\ItemsControlApp.pdb

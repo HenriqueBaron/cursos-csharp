@@ -1,0 +1,7 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\6LinqToObjects\bin\Debug\6LinqToObjects.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\6LinqToObjects\bin\Debug\6LinqToObjects.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\6LinqToObjects\bin\Debug\6LinqToObjects.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\6LinqToObjects\obj\Debug\6LinqToObjects.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\6LinqToObjects\obj\Debug\6LinqToObjects.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\6LinqToObjects\obj\Debug\6LinqToObjects.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\6LinqToObjects\obj\Debug\6LinqToObjects.pdb

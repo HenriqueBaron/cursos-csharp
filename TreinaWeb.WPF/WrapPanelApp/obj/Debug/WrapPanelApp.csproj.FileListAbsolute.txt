@@ -1,0 +1,14 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\WrapPanelApp\bin\Debug\WrapPanelApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\WrapPanelApp\bin\Debug\WrapPanelApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\WrapPanelApp\bin\Debug\WrapPanelApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\WrapPanelApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\WrapPanelApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\WrapPanelApp\obj\Debug\WrapPanelApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\WrapPanelApp\obj\Debug\WrapPanelApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\WrapPanelApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\WrapPanelApp\obj\Debug\WrapPanelApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\WrapPanelApp\obj\Debug\WrapPanelApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\WrapPanelApp\obj\Debug\WrapPanelApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\WrapPanelApp\obj\Debug\WrapPanelApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\WrapPanelApp\obj\Debug\WrapPanelApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\WrapPanelApp\obj\Debug\WrapPanelApp.pdb

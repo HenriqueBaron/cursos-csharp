@@ -1,0 +1,15 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\HeaderedContentControlApp\bin\Debug\HeaderedContentControlApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\HeaderedContentControlApp\bin\Debug\HeaderedContentControlApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\HeaderedContentControlApp\bin\Debug\HeaderedContentControlApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\HeaderedContentControlApp\obj\Debug\HeaderedContentControlApp.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\HeaderedContentControlApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\HeaderedContentControlApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\HeaderedContentControlApp\obj\Debug\HeaderedContentControlApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\HeaderedContentControlApp\obj\Debug\HeaderedContentControlApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\HeaderedContentControlApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\HeaderedContentControlApp\obj\Debug\HeaderedContentControlApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\HeaderedContentControlApp\obj\Debug\HeaderedContentControlApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\HeaderedContentControlApp\obj\Debug\HeaderedContentControlApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\HeaderedContentControlApp\obj\Debug\HeaderedContentControlApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\HeaderedContentControlApp\obj\Debug\HeaderedContentControlApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\HeaderedContentControlApp\obj\Debug\HeaderedContentControlApp.pdb

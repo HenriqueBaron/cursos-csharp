@@ -1,0 +1,10 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoMessageQueue\bin\Debug\EstudoMessageQueue.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoMessageQueue\bin\Debug\EstudoMessageQueue.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoMessageQueue\bin\Debug\EstudoMessageQueue.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoMessageQueue\obj\Debug\EstudoMessageQueue.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoMessageQueue\obj\Debug\EstudoMessageQueue.FrmMessageQueue.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoMessageQueue\obj\Debug\EstudoMessageQueue.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoMessageQueue\obj\Debug\EstudoMessageQueue.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoMessageQueue\obj\Debug\EstudoMessageQueue.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoMessageQueue\obj\Debug\EstudoMessageQueue.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\EstudoMessageQueue\obj\Debug\EstudoMessageQueue.pdb

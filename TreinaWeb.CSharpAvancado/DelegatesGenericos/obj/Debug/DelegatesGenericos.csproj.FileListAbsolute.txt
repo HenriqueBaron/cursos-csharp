@@ -1,0 +1,12 @@
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesGenericos\bin\Debug\DelegatesGenericos.exe
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesGenericos\bin\Debug\DelegatesGenericos.pdb
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesGenericos\obj\Debug\DelegatesGenericos.exe
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesGenericos\obj\Debug\DelegatesGenericos.pdb
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesGenericos\obj\Debug\DelegatesGenericos.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesGenericos\bin\Debug\DelegatesGenericos.exe.config
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesGenericos\bin\Debug\DelegatesGenericos.exe
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesGenericos\bin\Debug\DelegatesGenericos.pdb
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesGenericos\obj\Debug\DelegatesGenericos.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesGenericos\obj\Debug\DelegatesGenericos.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesGenericos\obj\Debug\DelegatesGenericos.exe
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesGenericos\obj\Debug\DelegatesGenericos.pdb

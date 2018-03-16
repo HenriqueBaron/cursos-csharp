@@ -1,0 +1,9 @@
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\AgendaContatosTreinaWeb\bin\Debug\AgendaContatosTreinaWeb.exe.config
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\AgendaContatosTreinaWeb\bin\Debug\AgendaContatosTreinaWeb.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\AgendaContatosTreinaWeb\bin\Debug\AgendaContatosTreinaWeb.pdb
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\AgendaContatosTreinaWeb\obj\Debug\AgendaContatosTreinaWeb.csprojResolveAssemblyReference.cache
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\AgendaContatosTreinaWeb\obj\Debug\AgendaContatosTreinaWeb.Properties.Resources.resources
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\AgendaContatosTreinaWeb\obj\Debug\AgendaContatosTreinaWeb.csproj.GenerateResource.Cache
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\AgendaContatosTreinaWeb\obj\Debug\AgendaContatosTreinaWeb.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\AgendaContatosTreinaWeb\obj\Debug\AgendaContatosTreinaWeb.pdb
+C:\Users\henri\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpBasico\AgendaContatosTreinaWeb\obj\Debug\AgendaContatosTreinaWeb.frmAgendaContatos.resources

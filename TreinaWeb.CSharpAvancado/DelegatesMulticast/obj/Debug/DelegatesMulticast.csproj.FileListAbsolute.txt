@@ -1,0 +1,12 @@
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesMulticast\bin\Debug\DelegatesMulticast.exe
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesMulticast\bin\Debug\DelegatesMulticast.pdb
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesMulticast\obj\Debug\DelegatesMulticast.csprojResolveAssemblyReference.cache
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesMulticast\obj\Debug\DelegatesMulticast.exe
+C:\Users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesMulticast\obj\Debug\DelegatesMulticast.pdb
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesMulticast\bin\Debug\DelegatesMulticast.exe.config
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesMulticast\bin\Debug\DelegatesMulticast.exe
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesMulticast\bin\Debug\DelegatesMulticast.pdb
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesMulticast\obj\Debug\DelegatesMulticast.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesMulticast\obj\Debug\DelegatesMulticast.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesMulticast\obj\Debug\DelegatesMulticast.exe
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\DelegatesMulticast\obj\Debug\DelegatesMulticast.pdb

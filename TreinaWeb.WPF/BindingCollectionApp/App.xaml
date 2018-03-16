@@ -1,0 +1,30 @@
+﻿<Application x:Class="BindingCollectionApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:BindingCollectionApp"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <DataTemplate x:Key="TemplatePessoa">
+            <StackPanel Margin="0,0,0,10" x:Name="stack">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="{Binding Id}"/>
+                    <TextBlock Text=" - "/>
+                    <TextBlock Text="{Binding Nome}"/>
+                </StackPanel>
+                <TextBlock Text="{Binding Email}"/>
+            </StackPanel>
+            <DataTemplate.Triggers>
+                <DataTrigger Binding="{Binding Sexo}"
+                             Value="Masculino">
+                    <Setter TargetName="stack"
+                            Property="Background" Value="LightBlue"/>
+                </DataTrigger>
+                <DataTrigger Binding="{Binding Sexo}"
+                             Value="Feminino">
+                    <Setter TargetName="stack"
+                            Property="Background" Value="LightSalmon"/>
+                </DataTrigger>
+            </DataTemplate.Triggers>
+        </DataTemplate>
+    </Application.Resources>
+</Application>

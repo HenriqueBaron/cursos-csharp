@@ -1,0 +1,6 @@
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\CadastroPessoas\CadastroPessoas.Dominio\bin\Debug\CadastroPessoas.Dominio.dll
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\CadastroPessoas\CadastroPessoas.Dominio\bin\Debug\CadastroPessoas.Dominio.pdb
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\CadastroPessoas\CadastroPessoas.Dominio\obj\Debug\CadastroPessoas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\CadastroPessoas\CadastroPessoas.Dominio\obj\Debug\CadastroPessoas.Dominio.dll
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\CadastroPessoas\CadastroPessoas.Dominio\obj\Debug\CadastroPessoas.Dominio.pdb
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\CadastroPessoas\CadastroPessoas.Dominio\obj\Debug\CadastroPessoas.Dominio.csprojResolveAssemblyReference.cache

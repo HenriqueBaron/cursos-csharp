@@ -1,0 +1,14 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FlowDocumentApp\bin\Debug\FlowDocumentApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FlowDocumentApp\bin\Debug\FlowDocumentApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FlowDocumentApp\bin\Debug\FlowDocumentApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FlowDocumentApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FlowDocumentApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FlowDocumentApp\obj\Debug\FlowDocumentApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FlowDocumentApp\obj\Debug\FlowDocumentApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FlowDocumentApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FlowDocumentApp\obj\Debug\FlowDocumentApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FlowDocumentApp\obj\Debug\FlowDocumentApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FlowDocumentApp\obj\Debug\FlowDocumentApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FlowDocumentApp\obj\Debug\FlowDocumentApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FlowDocumentApp\obj\Debug\FlowDocumentApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\FlowDocumentApp\obj\Debug\FlowDocumentApp.pdb

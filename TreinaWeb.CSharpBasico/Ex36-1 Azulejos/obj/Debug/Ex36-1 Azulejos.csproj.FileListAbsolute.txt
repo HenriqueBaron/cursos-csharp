@@ -1,0 +1,6 @@
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex36-1 Azulejos\bin\Debug\Ex36-1 Azulejos.exe.config
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex36-1 Azulejos\bin\Debug\Ex36-1 Azulejos.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex36-1 Azulejos\bin\Debug\Ex36-1 Azulejos.pdb
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex36-1 Azulejos\obj\Debug\Ex36-1 Azulejos.csprojResolveAssemblyReference.cache
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex36-1 Azulejos\obj\Debug\Ex36-1 Azulejos.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\Ex36-1 Azulejos\obj\Debug\Ex36-1 Azulejos.pdb

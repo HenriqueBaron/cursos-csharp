@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<estoque>
+  <titulo>Controle de Estoque em XML</titulo>
+  <produtos>
+    <produto id="2" descricao="Biscoito" preco="4,25" quantidade="8" />
+    <produto id="5" descricao="Farinha" preco="2,99" quantidade="45" />
+    <produto id="7" descricao="Pão Francês" preco="1,98" quantidade="15" />
+    <produto id="8" descricao="Chocolate" preco="4,25" quantidade="9" />
+  </produtos>
+</estoque>

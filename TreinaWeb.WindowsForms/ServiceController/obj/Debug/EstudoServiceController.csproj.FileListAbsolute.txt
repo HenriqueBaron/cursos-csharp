@@ -1,0 +1,10 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ServiceController\bin\Debug\ServiceController.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ServiceController\bin\Debug\ServiceController.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ServiceController\bin\Debug\ServiceController.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ServiceController\obj\Debug\EstudoServiceController.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ServiceController\obj\Debug\EstudoServiceController.FrmServiceController.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ServiceController\obj\Debug\ServiceController.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ServiceController\obj\Debug\EstudoServiceController.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ServiceController\obj\Debug\EstudoServiceController.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ServiceController\obj\Debug\ServiceController.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\ServiceController\obj\Debug\ServiceController.pdb

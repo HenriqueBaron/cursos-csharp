@@ -1,0 +1,12 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TesteUserControl\bin\Debug\TesteUserControl.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TesteUserControl\bin\Debug\TesteUserControl.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TesteUserControl\bin\Debug\TesteUserControl.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TesteUserControl\obj\Debug\TesteUserControl.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TesteUserControl\obj\Debug\TesteUserControl.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TesteUserControl\obj\Debug\TesteUserControl.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TesteUserControl\obj\Debug\TesteUserControl.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TesteUserControl\obj\Debug\TesteUserControl.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TesteUserControl\obj\Debug\TesteUserControl.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TesteUserControl\bin\Debug\LoginControl.dll
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TesteUserControl\bin\Debug\LoginControl.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\TesteUserControl\obj\Debug\TesteUserControl.FrmLogon.resources

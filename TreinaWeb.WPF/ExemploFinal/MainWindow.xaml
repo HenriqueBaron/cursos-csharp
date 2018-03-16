@@ -1,0 +1,66 @@
+﻿<Window x:Class="ExemploFinal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExemploFinal"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" WindowState="Maximized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Ribbon Grid.Row="0">
+            <Ribbon.ApplicationMenu>
+                <RibbonApplicationMenu KeyTip="A">
+                    <RibbonButton x:Name="rbbSair" Label="Sair"
+                                  KeyTip="S"
+                                  Click="rbbSair_Click"/>
+                </RibbonApplicationMenu>
+            </Ribbon.ApplicationMenu>
+
+            <RibbonTab Header="Treinamentos" KeyTip="T">
+                <RibbonGroup Header="Manutenção" KeyTip="M">
+
+                    <RibbonButton x:Name="rbbNovo" Label="Novo"
+                                  KeyTip="N"
+                                  LargeImageSource="Imagens\Add_8x_16x.png"
+                                  Click="rbbNovo_Click"/>
+
+                    <RibbonButton x:Name="rbbLista" Label="Listar"
+                                  KeyTip="L"
+                                  LargeImageSource="Imagens\Table_16x.png"
+                                  Click="rbbLista_Click"/>
+                </RibbonGroup>
+            </RibbonTab>
+        </Ribbon>
+
+        <TextBlock Grid.Row="1" x:Name="tw" Text="treinaweb"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   FontWeight="Bold" FontSize="80"
+                   Foreground="#FF34495e">
+            <TextBlock.Triggers>
+                <EventTrigger RoutedEvent="TextBlock.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation
+                                Storyboard.TargetName="tw"
+                                Storyboard.TargetProperty="Opacity"
+                                From="0" To="1" Duration="0:0:3"/>
+
+                            <DoubleAnimation
+                                Storyboard.TargetName="tw"
+                                Storyboard.TargetProperty="FontSize"
+                                From="0" To="80" Duration="0:0:5"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </TextBlock.Triggers>
+        </TextBlock>
+
+        <ContentPresenter Grid.Row="1" x:Name="stkContent"/>
+    </Grid>
+</Window>

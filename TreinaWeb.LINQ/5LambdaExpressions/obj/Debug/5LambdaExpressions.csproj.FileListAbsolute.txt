@@ -1,0 +1,7 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\5LambdaExpressions\bin\Debug\5LambdaExpressions.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\5LambdaExpressions\bin\Debug\5LambdaExpressions.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\5LambdaExpressions\bin\Debug\5LambdaExpressions.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\5LambdaExpressions\obj\Debug\5LambdaExpressions.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\5LambdaExpressions\obj\Debug\5LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\5LambdaExpressions\obj\Debug\5LambdaExpressions.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.LINQ\5LambdaExpressions\obj\Debug\5LambdaExpressions.pdb

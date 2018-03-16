@@ -1,0 +1,5 @@
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoMatrizes\bin\Debug\EstudoMatrizes.exe.config
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoMatrizes\bin\Debug\EstudoMatrizes.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoMatrizes\bin\Debug\EstudoMatrizes.pdb
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoMatrizes\obj\Debug\EstudoMatrizes.exe
+C:\Users\henri\documents\visual studio 2017\Projects\TreinaWeb.CSharpBasico\EstudoMatrizes\obj\Debug\EstudoMatrizes.pdb

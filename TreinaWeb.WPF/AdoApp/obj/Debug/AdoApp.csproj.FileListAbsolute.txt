@@ -1,0 +1,14 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\AdoApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\AdoApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\AdoApp\obj\Debug\AdoApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\AdoApp\obj\Debug\AdoApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\AdoApp\bin\Debug\AdoApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\AdoApp\bin\Debug\AdoApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\AdoApp\bin\Debug\AdoApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\AdoApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\AdoApp\obj\Debug\AdoApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\AdoApp\obj\Debug\AdoApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\AdoApp\obj\Debug\AdoApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\AdoApp\obj\Debug\AdoApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\AdoApp\obj\Debug\AdoApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\AdoApp\obj\Debug\AdoApp.pdb

@@ -1,0 +1,18 @@
+﻿<Window x:Class="ResourcesApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ResourcesApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel HorizontalAlignment="Center">
+        <TextBlock FontSize="36" Text="Text" Foreground="{StaticResource blueBrush}"/>
+        <Button Background="{StaticResource blueBrush}" Foreground="{StaticResource whiteBrush}"
+                Height="30" Width="60">Text</Button>
+        <Ellipse Fill="{StaticResource blueBrush}"
+                 Height="{StaticResource myValue}"
+                 Width="{StaticResource myValue}"
+                 Margin="10"/>
+    </StackPanel>
+</Window>

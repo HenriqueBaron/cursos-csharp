@@ -1,0 +1,16 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\BindingCollectionApp\bin\Debug\BindingCollectionApp.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\BindingCollectionApp\bin\Debug\BindingCollectionApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\BindingCollectionApp\bin\Debug\BindingCollectionApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\BindingCollectionApp\obj\Debug\BindingCollectionApp.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\BindingCollectionApp\obj\Debug\MainWindow.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\BindingCollectionApp\obj\Debug\App.g.cs
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\BindingCollectionApp\obj\Debug\BindingCollectionApp_MarkupCompile.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\BindingCollectionApp\obj\Debug\BindingCollectionApp_MarkupCompile.lref
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\BindingCollectionApp\obj\Debug\MainWindow.baml
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\BindingCollectionApp\obj\Debug\BindingCollectionApp.g.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\BindingCollectionApp\obj\Debug\BindingCollectionApp.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\BindingCollectionApp\obj\Debug\BindingCollectionApp.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\BindingCollectionApp\obj\Debug\BindingCollectionApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\BindingCollectionApp\obj\Debug\BindingCollectionApp.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\BindingCollectionApp\obj\Debug\BindingCollectionApp.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WPF\BindingCollectionApp\obj\Debug\App.baml

@@ -1,0 +1,10 @@
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\FileSystemWatcherEstudo\bin\Debug\FileSystemWatcherEstudo.exe.config
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\FileSystemWatcherEstudo\bin\Debug\FileSystemWatcherEstudo.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\FileSystemWatcherEstudo\bin\Debug\FileSystemWatcherEstudo.pdb
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\FileSystemWatcherEstudo\obj\Debug\FileSystemWatcherEstudo.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\FileSystemWatcherEstudo\obj\Debug\FileSystemWatcherEstudo.FrmFileSystemWatcher.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\FileSystemWatcherEstudo\obj\Debug\FileSystemWatcherEstudo.Properties.Resources.resources
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\FileSystemWatcherEstudo\obj\Debug\FileSystemWatcherEstudo.csproj.GenerateResource.Cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\FileSystemWatcherEstudo\obj\Debug\FileSystemWatcherEstudo.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\FileSystemWatcherEstudo\obj\Debug\FileSystemWatcherEstudo.exe
+C:\Users\Henrique Baron\Source\Repos\TreinaWeb.WindowsForms\FileSystemWatcherEstudo\obj\Debug\FileSystemWatcherEstudo.pdb

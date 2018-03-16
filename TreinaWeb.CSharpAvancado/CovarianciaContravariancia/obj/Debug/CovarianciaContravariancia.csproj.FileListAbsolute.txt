@@ -1,0 +1,12 @@
+c:\users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\bin\Debug\CovarianciaContravariancia.exe
+c:\users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\bin\Debug\CovarianciaContravariancia.pdb
+c:\users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\obj\Debug\CovarianciaContravariancia.csprojResolveAssemblyReference.cache
+c:\users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\obj\Debug\CovarianciaContravariancia.exe
+c:\users\henrique.baron\documents\visual studio 2017\Projects\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\obj\Debug\CovarianciaContravariancia.pdb
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\bin\Debug\CovarianciaContravariancia.exe.config
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\bin\Debug\CovarianciaContravariancia.exe
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\bin\Debug\CovarianciaContravariancia.pdb
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\obj\Debug\CovarianciaContravariancia.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\obj\Debug\CovarianciaContravariancia.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\obj\Debug\CovarianciaContravariancia.exe
+C:\Users\Henrique Baron\Documents\Visual Studio 2017\Projects\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\obj\Debug\CovarianciaContravariancia.pdb
