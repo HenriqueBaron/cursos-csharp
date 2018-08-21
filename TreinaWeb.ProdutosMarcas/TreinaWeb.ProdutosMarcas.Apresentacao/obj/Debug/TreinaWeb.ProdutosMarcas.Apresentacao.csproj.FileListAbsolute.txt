@@ -22,3 +22,28 @@ C:\Users\Henrique Baron\Source\Repos\TreinaWeb.ProdutosMarcas\TreinaWeb.Produtos
 C:\Users\Henrique Baron\Source\Repos\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\bin\Debug\EntityFramework.xml
 C:\Users\Henrique Baron\Source\Repos\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\obj\Debug\TreinaWeb.ProdutosMarcas.Apresentacao.exe
 C:\Users\Henrique Baron\Source\Repos\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\obj\Debug\TreinaWeb.ProdutosMarcas.Apresentacao.pdb
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\obj\Debug\TreinaWeb.ProdutosMarcas.Apresentacao.csprojAssemblyReference.cache
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\obj\Debug\TreinaWeb.ProdutosMarcas.Apresentacao.FrmMarca.resources
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\obj\Debug\TreinaWeb.ProdutosMarcas.Apresentacao.FrmPrincipal.resources
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\obj\Debug\TreinaWeb.ProdutosMarcas.Apresentacao.FrmProduto.resources
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\obj\Debug\TreinaWeb.ProdutosMarcas.Apresentacao.Properties.Resources.resources
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\obj\Debug\TreinaWeb.ProdutosMarcas.Apresentacao.csproj.GenerateResource.cache
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\obj\Debug\TreinaWeb.ProdutosMarcas.Apresentacao.csproj.CoreCompileInputs.cache
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\bin\Debug\TreinaWeb.ProdutosMarcas.Apresentacao.exe.config
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\bin\Debug\TreinaWeb.ProdutosMarcas.Apresentacao.exe
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\bin\Debug\TreinaWeb.ProdutosMarcas.Apresentacao.pdb
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\bin\Debug\TreinaWeb.ProdutosMarcas.Dominio.dll
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\bin\Debug\TreinaWeb.ProdutosMarcas.Repos.EF.dll
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\bin\Debug\TreinaWeb.Repositorio.Comum.dll
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\bin\Debug\TreinaWeb.ProdutosMarcas.Persist.EF.dll
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\bin\Debug\EntityFramework.dll
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\bin\Debug\TreinaWeb.ProdutosMarcas.Dominio.pdb
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\bin\Debug\TreinaWeb.ProdutosMarcas.Repos.EF.pdb
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\bin\Debug\TreinaWeb.ProdutosMarcas.Repos.EF.dll.config
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\bin\Debug\TreinaWeb.Repositorio.Comum.pdb
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\bin\Debug\TreinaWeb.ProdutosMarcas.Persist.EF.pdb
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\bin\Debug\TreinaWeb.ProdutosMarcas.Persist.EF.dll.config
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\bin\Debug\EntityFramework.xml
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\obj\Debug\TreinaWeb.ProdutosMarcas.Apresentacao.csproj.CopyComplete
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\obj\Debug\TreinaWeb.ProdutosMarcas.Apresentacao.exe
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Apresentacao\obj\Debug\TreinaWeb.ProdutosMarcas.Apresentacao.pdb

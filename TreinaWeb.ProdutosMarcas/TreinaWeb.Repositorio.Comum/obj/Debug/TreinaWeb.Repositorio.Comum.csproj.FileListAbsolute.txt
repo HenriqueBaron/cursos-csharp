@@ -4,3 +4,8 @@ C:\Users\Henrique Baron\Source\Repos\TreinaWeb.ProdutosMarcas\TreinaWeb.Reposito
 C:\Users\Henrique Baron\Source\Repos\TreinaWeb.ProdutosMarcas\TreinaWeb.Repositorio.Comum\obj\Debug\TreinaWeb.Repositorio.Comum.csproj.CoreCompileInputs.cache
 C:\Users\Henrique Baron\Source\Repos\TreinaWeb.ProdutosMarcas\TreinaWeb.Repositorio.Comum\obj\Debug\TreinaWeb.Repositorio.Comum.dll
 C:\Users\Henrique Baron\Source\Repos\TreinaWeb.ProdutosMarcas\TreinaWeb.Repositorio.Comum\obj\Debug\TreinaWeb.Repositorio.Comum.pdb
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.Repositorio.Comum\bin\Debug\TreinaWeb.Repositorio.Comum.dll
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.Repositorio.Comum\bin\Debug\TreinaWeb.Repositorio.Comum.pdb
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.Repositorio.Comum\obj\Debug\TreinaWeb.Repositorio.Comum.csproj.CoreCompileInputs.cache
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.Repositorio.Comum\obj\Debug\TreinaWeb.Repositorio.Comum.dll
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.Repositorio.Comum\obj\Debug\TreinaWeb.Repositorio.Comum.pdb

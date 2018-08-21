@@ -4,3 +4,8 @@ C:\Users\Henrique Baron\Source\Repos\TreinaWeb.ProdutosMarcas\TreinaWeb.Produtos
 C:\Users\Henrique Baron\Source\Repos\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Dominio\obj\Debug\TreinaWeb.ProdutosMarcas.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Henrique Baron\Source\Repos\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Dominio\obj\Debug\TreinaWeb.ProdutosMarcas.Dominio.dll
 C:\Users\Henrique Baron\Source\Repos\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Dominio\obj\Debug\TreinaWeb.ProdutosMarcas.Dominio.pdb
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Dominio\bin\Debug\TreinaWeb.ProdutosMarcas.Dominio.dll
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Dominio\bin\Debug\TreinaWeb.ProdutosMarcas.Dominio.pdb
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Dominio\obj\Debug\TreinaWeb.ProdutosMarcas.Dominio.csproj.CoreCompileInputs.cache
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Dominio\obj\Debug\TreinaWeb.ProdutosMarcas.Dominio.dll
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Dominio\obj\Debug\TreinaWeb.ProdutosMarcas.Dominio.pdb

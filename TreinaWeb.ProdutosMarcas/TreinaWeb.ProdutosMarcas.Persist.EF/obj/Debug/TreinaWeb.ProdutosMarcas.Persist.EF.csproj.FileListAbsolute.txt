@@ -13,3 +13,19 @@ C:\Users\Henrique Baron\Source\Repos\TreinaWeb.ProdutosMarcas\TreinaWeb.Produtos
 C:\Users\Henrique Baron\Source\Repos\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Persist.EF\obj\Debug\TreinaWeb.ProdutosMarcas.Persist.EF.pdb
 C:\Users\Henrique Baron\Source\Repos\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Persist.EF\obj\Debug\TreinaWeb.ProdutosMarcas.Persist.EF.Migrations.Migration_Inicial_Criacao_Produto_Marca.resources
 C:\Users\Henrique Baron\Source\Repos\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Persist.EF\obj\Debug\TreinaWeb.ProdutosMarcas.Persist.EF.csproj.GenerateResource.Cache
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Persist.EF\obj\Debug\TreinaWeb.ProdutosMarcas.Persist.EF.csprojAssemblyReference.cache
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Persist.EF\obj\Debug\TreinaWeb.ProdutosMarcas.Persist.EF.Migrations.Migration_Inicial_Criacao_Produto_Marca.resources
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Persist.EF\obj\Debug\TreinaWeb.ProdutosMarcas.Persist.EF.csproj.GenerateResource.cache
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Persist.EF\obj\Debug\TreinaWeb.ProdutosMarcas.Persist.EF.csproj.CoreCompileInputs.cache
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Persist.EF\bin\Debug\TreinaWeb.ProdutosMarcas.Persist.EF.dll.config
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Persist.EF\bin\Debug\TreinaWeb.ProdutosMarcas.Persist.EF.dll
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Persist.EF\bin\Debug\TreinaWeb.ProdutosMarcas.Persist.EF.pdb
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Persist.EF\bin\Debug\EntityFramework.dll
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Persist.EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Persist.EF\bin\Debug\TreinaWeb.ProdutosMarcas.Dominio.dll
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Persist.EF\bin\Debug\TreinaWeb.ProdutosMarcas.Dominio.pdb
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Persist.EF\bin\Debug\EntityFramework.xml
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Persist.EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Persist.EF\obj\Debug\TreinaWeb.ProdutosMarcas.Persist.EF.csproj.CopyComplete
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Persist.EF\obj\Debug\TreinaWeb.ProdutosMarcas.Persist.EF.dll
+D:\Users\henrique.baron\repos\cursos-csharp\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Persist.EF\obj\Debug\TreinaWeb.ProdutosMarcas.Persist.EF.pdb
