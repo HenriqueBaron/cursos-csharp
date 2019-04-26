@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinaWeb.Calculadora.Util", "TreinaWeb.Calculadora.Util\TreinaWeb.Calculadora.Util.csproj", "{B1B8EED8-FC17-4529-9A1D-B3BD080EA2A0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{73EE632D-240E-47BF-85BD-B447F3D4E35A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinaWeb.Calculadora.MSTests", "TreinaWeb.Calculadora.MSTests\TreinaWeb.Calculadora.MSTests.csproj", "{644F9935-B8C0-4048-93DD-28FFD06BF3CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,16 @@ Global
 		{B1B8EED8-FC17-4529-9A1D-B3BD080EA2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1B8EED8-FC17-4529-9A1D-B3BD080EA2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1B8EED8-FC17-4529-9A1D-B3BD080EA2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{644F9935-B8C0-4048-93DD-28FFD06BF3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644F9935-B8C0-4048-93DD-28FFD06BF3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644F9935-B8C0-4048-93DD-28FFD06BF3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644F9935-B8C0-4048-93DD-28FFD06BF3CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{644F9935-B8C0-4048-93DD-28FFD06BF3CA} = {73EE632D-240E-47BF-85BD-B447F3D4E35A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DAEBBF5A-70B8-4716-9E5B-8607485466E1}
