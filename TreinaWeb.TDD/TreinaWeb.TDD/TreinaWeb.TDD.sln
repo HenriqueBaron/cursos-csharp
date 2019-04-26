@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinaWeb.Calculadora.MSTes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinaWeb.Calculadora.NUnit", "TreinaWeb.Calculadora.NUnit\TreinaWeb.Calculadora.NUnit.csproj", "{EDBB70C6-5C03-4E9D-BD6D-E5B6A847E2DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinaWeb.Calculadora.xUnit", "TreinaWeb.Calculadora.xUnit\TreinaWeb.Calculadora.xUnit.csproj", "{D690F129-19D9-4046-A2EC-EC943ADA7B68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{EDBB70C6-5C03-4E9D-BD6D-E5B6A847E2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDBB70C6-5C03-4E9D-BD6D-E5B6A847E2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDBB70C6-5C03-4E9D-BD6D-E5B6A847E2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D690F129-19D9-4046-A2EC-EC943ADA7B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D690F129-19D9-4046-A2EC-EC943ADA7B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D690F129-19D9-4046-A2EC-EC943ADA7B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D690F129-19D9-4046-A2EC-EC943ADA7B68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +42,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{644F9935-B8C0-4048-93DD-28FFD06BF3CA} = {73EE632D-240E-47BF-85BD-B447F3D4E35A}
 		{EDBB70C6-5C03-4E9D-BD6D-E5B6A847E2DF} = {73EE632D-240E-47BF-85BD-B447F3D4E35A}
+		{D690F129-19D9-4046-A2EC-EC943ADA7B68} = {73EE632D-240E-47BF-85BD-B447F3D4E35A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DAEBBF5A-70B8-4716-9E5B-8607485466E1}
