@@ -31,6 +31,9 @@ namespace TreinaWeb.Calculadora.Util
 
         public int Dividir(int a, int b) {
             VerificarLimiteArgumentos(a, b);
+            if (b == 0) {
+                throw new DivideByZeroException();
+            }
             return a / b;
         }
 

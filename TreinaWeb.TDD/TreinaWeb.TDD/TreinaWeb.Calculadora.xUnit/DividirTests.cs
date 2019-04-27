@@ -32,5 +32,10 @@ namespace TreinaWeb.Calculadora.xUnit
         public void TestDivisaoAbaixoLimiteAmbosArgumentos() {
             Assert.Throws<ArgumentOutOfRangeException>(() => calc.Dividir(-3, -3));
         }
+
+        [Fact]
+        public void TestDivisaoDivisorIgualAZero() {
+            Assert.Throws<DivideByZeroException>(() => calc.Dividir(3, 0));
+        }
     }
 }
